@@ -1,0 +1,5 @@
+mode: set
+awslambdakinesisdeletion/awskinesis/AwsKinesisClient.go:13.88,18.2 2 1
+awslambdakinesisdeletion/awskinesis/DeleteKinesisStream.go:15.125,23.16 3 1
+awslambdakinesisdeletion/awskinesis/DeleteKinesisStream.go:27.2,27.25 1 1
+awslambdakinesisdeletion/awskinesis/DeleteKinesisStream.go:23.16,25.3 1 1

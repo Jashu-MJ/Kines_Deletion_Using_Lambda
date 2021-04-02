@@ -1,0 +1,4 @@
+mode: set
+awslambdamonitor/awssession/AwsSession.go:12.48,26.2 4 1
+awslambdamonitor/awssession/AwsConfig.go:11.25,17.2 4 1
+awslambdamonitor/awssession/AwsConfig.go:20.58,23.2 1 1

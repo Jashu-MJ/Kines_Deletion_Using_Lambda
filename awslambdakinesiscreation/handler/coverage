@@ -1,0 +1,4 @@
+mode: count
+awslambda/handler/AwsLambdaFunction.go:12.89,15.16 2 2
+awslambda/handler/AwsLambdaFunction.go:19.2,21.18 2 1
+awslambda/handler/AwsLambdaFunction.go:15.16,17.3 1 1

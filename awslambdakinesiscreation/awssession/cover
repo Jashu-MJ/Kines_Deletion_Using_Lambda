@@ -1,0 +1,4 @@
+mode: set
+awslambdakinesiscreation/awssession/AwsConfig.go:11.25,17.2 4 1
+awslambdakinesiscreation/awssession/AwsConfig.go:20.58,23.2 1 1
+awslambdakinesiscreation/awssession/AwsSession.go:12.48,25.2 4 1

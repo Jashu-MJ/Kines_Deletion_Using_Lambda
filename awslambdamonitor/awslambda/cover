@@ -1,0 +1,3 @@
+mode: set
+awslambdamonitor/awslambda/awsLambdaClient.go:11.53,16.2 2 1
+awslambdamonitor/awslambda/lambdaPermissions.go:14.123,26.2 3 1

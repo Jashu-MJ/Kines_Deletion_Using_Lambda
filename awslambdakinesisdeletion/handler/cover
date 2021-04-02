@@ -1,0 +1,6 @@
+mode: set
+awslambdakinesisdeletion/handler/LambdaForKinesisDeletion.go:13.89,15.16 2 1
+awslambdakinesisdeletion/handler/LambdaForKinesisDeletion.go:18.2,19.16 2 1
+awslambdakinesisdeletion/handler/LambdaForKinesisDeletion.go:22.2,24.18 3 1
+awslambdakinesisdeletion/handler/LambdaForKinesisDeletion.go:15.16,17.3 1 1
+awslambdakinesisdeletion/handler/LambdaForKinesisDeletion.go:19.16,21.3 1 0

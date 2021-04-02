@@ -1,0 +1,6 @@
+mode: set
+awslambdakinesiscreation/handler/AwsLambdaFunction.go:13.89,16.16 2 1
+awslambdakinesiscreation/handler/AwsLambdaFunction.go:20.2,21.16 2 1
+awslambdakinesiscreation/handler/AwsLambdaFunction.go:25.2,26.18 2 1
+awslambdakinesiscreation/handler/AwsLambdaFunction.go:16.16,18.3 1 1
+awslambdakinesiscreation/handler/AwsLambdaFunction.go:21.16,23.3 1 0

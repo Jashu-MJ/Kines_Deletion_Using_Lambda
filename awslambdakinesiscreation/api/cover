@@ -1,0 +1,14 @@
+mode: set
+awslambdakinesiscreation/api/Unmarshalrequest.go:15.115,20.16 4 1
+awslambdakinesiscreation/api/Unmarshalrequest.go:25.2,25.26 1 1
+awslambdakinesiscreation/api/Unmarshalrequest.go:20.16,23.3 2 1
+awslambdakinesiscreation/api/ValidationOfApiRequest.go:14.121,19.41 4 1
+awslambdakinesiscreation/api/ValidationOfApiRequest.go:35.2,36.126 2 1
+awslambdakinesiscreation/api/ValidationOfApiRequest.go:19.41,22.17 2 1
+awslambdakinesiscreation/api/ValidationOfApiRequest.go:22.17,25.4 2 1
+awslambdakinesiscreation/api/ValidationOfApiRequest.go:25.9,25.37 1 1
+awslambdakinesiscreation/api/ValidationOfApiRequest.go:25.37,29.4 2 1
+awslambdakinesiscreation/api/ValidationOfApiRequest.go:29.9,33.4 2 1
+awslambdakinesiscreation/api/ValidationofRequestBody.go:11.46,17.43 2 1
+awslambdakinesiscreation/api/ValidationofRequestBody.go:22.2,22.13 1 1
+awslambdakinesiscreation/api/ValidationofRequestBody.go:17.43,20.3 2 1

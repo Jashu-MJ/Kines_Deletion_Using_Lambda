@@ -1,0 +1,17 @@
+mode: set
+awslambdamonitor/awskinesis/awsKinesisClient.go:12.56,15.2 2 1
+awslambdamonitor/awskinesis/awsKinesisStreamList.go:12.74,15.16 3 1
+awslambdamonitor/awskinesis/awsKinesisStreamList.go:19.2,19.25 1 1
+awslambdamonitor/awskinesis/awsKinesisStreamList.go:24.2,24.19 1 1
+awslambdamonitor/awskinesis/awsKinesisStreamList.go:15.16,17.3 1 1
+awslambdamonitor/awskinesis/awsKinesisStreamList.go:19.25,20.28 1 1
+awslambdamonitor/awskinesis/awsKinesisStreamList.go:20.28,22.4 1 1
+awslambdamonitor/awskinesis/awsKinesisStreamList.go:28.81,33.16 4 1
+awslambdamonitor/awskinesis/awsKinesisStreamList.go:36.2,37.48 2 1
+awslambdamonitor/awskinesis/awsKinesisStreamList.go:40.2,40.49 1 0
+awslambdamonitor/awskinesis/awsKinesisStreamList.go:48.2,48.18 1 0
+awslambdamonitor/awskinesis/awsKinesisStreamList.go:33.16,35.3 1 1
+awslambdamonitor/awskinesis/awsKinesisStreamList.go:37.48,39.3 1 1
+awslambdamonitor/awskinesis/awsKinesisStreamList.go:40.49,42.17 2 0
+awslambdamonitor/awskinesis/awsKinesisStreamList.go:45.3,45.43 1 0
+awslambdamonitor/awskinesis/awsKinesisStreamList.go:42.17,44.4 1 0
