@@ -1,4 +1,0 @@
-mode: set
-awslambdakinesisdeletion/api/validateRequest.go:14.103,16.85 1 1
-awslambdakinesisdeletion/api/validateRequest.go:21.2,21.90 1 1
-awslambdakinesisdeletion/api/validateRequest.go:16.85,19.3 1 1
