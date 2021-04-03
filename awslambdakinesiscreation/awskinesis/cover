@@ -1,6 +1,0 @@
-mode: set
-awslambdakinesiscreation/awskinesis/AwsKinesisClient.go:13.88,17.2 2 1
-awslambdakinesiscreation/awskinesis/AwsKinesisStream.go:18.124,29.16 4 1
-awslambdakinesiscreation/awskinesis/AwsKinesisStream.go:33.2,34.20 2 1
-awslambdakinesiscreation/awskinesis/AwsKinesisStream.go:29.16,31.3 1 1
-awslambdakinesiscreation/awskinesis/AwsKinesisStream.go:38.70,42.2 2 1
