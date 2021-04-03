@@ -1,5 +1,3 @@
-//Package Handler has lambda function used for kinesis deletion.
-package handler
 
 import (
 	"awslambdakinesisdeletion/api"
@@ -26,5 +24,5 @@ func Handler(req events.APIGatewayProxyRequest) (events.APIGatewayProxyResponse,
 }
 func main() {
 
-	lambda.Start(Handler)
+	lambda.Start(git Handler)
 }
