@@ -1,3 +1,4 @@
+package main
 
 import (
 	"awslambdakinesisdeletion/api"
@@ -24,5 +25,5 @@ func Handler(req events.APIGatewayProxyRequest) (events.APIGatewayProxyResponse,
 }
 func main() {
 
-	lambda.Start(git Handler)
+	lambda.Start(Handler)
 }
