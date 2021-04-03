@@ -7,7 +7,6 @@ import (
 
 	"github.com/aws/aws-lambda-go/events"
 	"github.com/aws/aws-lambda-go/lambda"
-
 )
 
 //Handler function is used for deleting the kinesis stream, this function is triggered by an api request.
@@ -27,5 +26,5 @@ func Handler(req events.APIGatewayProxyRequest) (events.APIGatewayProxyResponse,
 }
 func main() {
 
-	lambda.Start(handler.Handler)
+	lambda.Start(Handler)
 }
